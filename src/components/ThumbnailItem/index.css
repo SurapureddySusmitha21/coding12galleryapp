@@ -1,0 +1,14 @@
+/* Write your code here. */
+.list-items {
+  list-style-type: none;
+}
+.galary-container {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  border: transparent;
+}
+.active {
+  opacity: 1;
+}
